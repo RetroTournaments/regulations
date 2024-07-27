@@ -28,13 +28,14 @@ Any changes to the regulations will be made by pull request only.
 
 - 1a) Any person MAY compete in a CRGA Tournament providing:
     - 1a1) They MUST comply with these regulations.
-    - 1a2) They MUST register for the tournament prior to the tournament starting.
+    - 1a2) They MUST register for the tournament by the stated deadline.
     - 1a3) They MUST NOT be suspended by the CRGA.
-    - 1a4) They MUST meet any additional eligibility requirements
+    - 1a4) They MUST meet any additional eligibility requirements.
 - 1b) In order to register the person MUST provide necessary information
     - 1b1) They MUST provide their unique CRGA identifier if available.
     - 1b2) They MUST provide an alias to use during the competition.
     - 1b3) They MUST provide a suitable email address to serve as contact.
+    - 1b4) They SHOULD provide legal name and identification to be eligible for monetary awards. 
 - 1c) All persons MUST comply with necessary safety regulations. 
 - 1d) All persons MUST comply with venue rules.
 - 1e) All persons MUST be suitably dressed.
@@ -43,6 +44,7 @@ Any changes to the regulations will be made by pull request only.
 - 1h) All persons MUST NOT use any external aids that give an unfair advantage. This includes
     - 1h1) Written notes or other unfair non-electronic aids
     - 1h2) Laptops or other unfair electronic aids
+    - 1h3) Modified controllers or other gaming peripherals
 - 1i) All persons MUST NOT modify, adjust, or otherwise tamper with CRGA technology
 
 ## Article 2: Tournament Organization
@@ -66,4 +68,6 @@ Any changes to the regulations will be made by pull request only.
     - 3a2) Controllers MUST NOT be constructed or modified such that they provide an unfair advantage in any way shape or form.
     - 3a3) Unmodified original equipment manufacturer controllers MUST always be accepted.
     - 3a4) Third party controllers MAY be accepted at the sole discretion of the tournament commissioner.
+    - 3a5) Tournament commission MAY inspect any equipment befor, during, or after the tournament.
+- 3b) All persons MUST provide their own practice equipment before and during the tournment. 
 
